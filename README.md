@@ -1,3 +1,2 @@
 # Eberly-MI-462
-Includes all data projects conducted over college career
-Includes most badges/certifications achieved over college career (missing some due to lost files)
+Includes all data projects conducted over course of 4 years and most badges/certifications achieved during that time frame (missing some due to lost files).
